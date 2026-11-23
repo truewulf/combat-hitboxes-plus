@@ -1,9 +1,9 @@
 # Combat Hitboxes+
 
-**Everything missing from the original Combat Hitboxes for PvP.**
+**Everything missing from the original Combat Hitboxes for PvP**
 
 A client-side Fabric mod: shield color, honest hit colors, projectile tracking
-with owner colors and a weapon filter — on top of the classic hitbox colors.
+with owner colors and a weapon filter on top of the classic hitbox colors.
 
 ## What this adds over the original Combat Hitboxes
 
@@ -25,4 +25,4 @@ Everything is configurable in Mod Menu
 
 ## Credits
 
-- Original Combat Hitboxes [sootysplash](https://github.com/sootysplash)
+Original Combat Hitboxes [sootysplash](https://github.com/sootysplash)
